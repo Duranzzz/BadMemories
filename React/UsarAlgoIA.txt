@@ -1,0 +1,9 @@
+1. primero instalar react, y probar npm -v, react -v y npx -v
+
+2. (SI ESTO NO EXISTE EN TU packages.json salta al paso 3)luego ve a la carpeta de tus archivos y buscar packages.json entra y cambia en scripts en dev su "vite" por un "vite --open" para que se abra solo en el host (SI ESTO EXISTE EN TU packages.json ignora el paso 4)
+
+3. luego en la raíz del archivo ejecuta npm install, ya que esto instalará las dependencias necesarias para que el proyecto funcione.
+
+4. ejecuta "npm start" 
+
+5. ejecuta "npm dev run" (IGNORA SI SALTASTE EL PASO 2)
